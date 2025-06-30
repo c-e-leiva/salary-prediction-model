@@ -93,5 +93,5 @@ Reporte técnico profesional que presenta:
 
 ## 🔗 Enlaces de Interés
 
-- 📂 Repositorio GitHub: [`salary-prediction-model`](https://github.com/usuario/salary-prediction-model)  
+- 📂 Repositorio GitHub: [`salary-prediction-model`](https://github.com/c-e-leiva/salary-prediction-model)  
 - 🧪 Notebook Interactivo: [Abrir en Google Colab](https://colab.research.google.com/drive/1hMMbVlPv8VqgCGqm8JjV4my9uLKNTrRo?usp=sharing)
